@@ -1,0 +1,20 @@
+.parent{
+    /* margin: auto; */
+    padding: 4% 0 0 30%;    
+}
+.search-bar{
+    border: 5px solid lightgray;
+    /* border-radius: 0px; */
+    font-size: 50px;
+    border-radius: 5px;
+    padding: 10px;
+    width: 50%;
+}
+input{
+    height: 50px;
+    font-size: 30px;
+}
+.search-bar form{
+    display: flex;
+    flex-direction: column;
+}
